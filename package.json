@@ -1,0 +1,22 @@
+{
+  "name": "testtravisci",
+  "version": "1.0.0",
+  "description": "Husnain",
+  "main": "index.js",
+  "scripts": {
+     "test": "./node_modules/jshint/bin/jshint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Husnain062/testTravisCi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Husnain062/testTravisCi/issues"
+  },
+  "homepage": "https://github.com/Husnain062/testTravisCi#readme",
+  "dependencies": {
+    "jshint": "^2.9.5"
+  }
+}
